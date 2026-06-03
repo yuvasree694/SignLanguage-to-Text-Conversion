@@ -153,6 +153,6 @@ git push -u origin main
 
 Python · TensorFlow · Keras · OpenCV · NumPy · Matplotlib · Scikit-learn · Git
 
-## License
+## Author
 
-MIT
+YUVASREE T
