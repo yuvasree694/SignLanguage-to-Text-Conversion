@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+
+# Data & models
+data/raw/
+data/processed/
+data/models/*.h5
+data/models/*.keras
+data/models/experiments/
+*.zip
+
+# Logs & outputs
+logs/
+outputs/
+*.log
+runs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow
+*.tfevents.*
